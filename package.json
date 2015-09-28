@@ -2,9 +2,12 @@
   "name": "texter",
   "version": "1.0.0",
   "description": "",
-  "main": "server.js",
+  "main": "server/server.js",
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "body-parser": "^1.14.1",
+    "express": "^4.13.3",
+    "twilio": "^2.4.0"
   }
 }
